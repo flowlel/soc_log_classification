@@ -1,0 +1,8 @@
+geotext==0.4.0
+pyenchant==3.2.2
+python_dateutil==2.8.2
+rake_nltk==1.0.6
+scikit_learn==1.2.2
+scikit_learn_intelex==20230426.121932
+stop_words==2018.7.23
+wikipedia==1.4.0
